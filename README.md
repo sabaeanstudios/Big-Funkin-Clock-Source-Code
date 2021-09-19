@@ -61,9 +61,10 @@ This game was made with love to Newgrounds and its community. Extra love to Tom 
 - [KadeDeveloper](https://twitter.com/KadeDeveloper) - Maintainer and lead programmer
 - [The contributors](https://github.com/KadeDev/Kade-Engine/graphs/contributors)
 
-### Big Funkin' Clock theme
+### Big Funkin' Clock team: Team Long Johnson
 - [ClockMan41442](https://twitter.com/ClockFunkin) - Lead programmer and design
 - [saladin200](https://twitter.com/saladindev200) - Music and design
+- MiamiKnight - Emotional support
 
 
 ### Shoutouts
